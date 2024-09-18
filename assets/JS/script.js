@@ -12,7 +12,7 @@ document.getElementById('loginForm').addEventListener('submit', function(event){
         window.location.href = 'index.html';
 
     }else{
-        alert("Username atau password salah")
+        alert("sing bener bae")
     }
 
 });
